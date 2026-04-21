@@ -143,21 +143,19 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
 jupyter notebook
-
+```
 
 ---
 
-# 4️⃣ 🚀 Future Work (this makes you stand out)
-
-```markdown
 ## 🚀 Future Work
 
 - Improve stability of advanced domain adaptation methods  
 - Explore transformer-based EEG models  
 - Investigate subject-specific calibration  
 - Extend to real-time BCI systems  
+
+---
 
 ## 👤 Author
 
